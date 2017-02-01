@@ -1,4 +1,6 @@
-/*201701310918L   EL MARTES   GIRO*/
+/*201701310918L   EL MARTES   GIRO
+SETFOCUS TO THE FIRST FIELD SO I DONT HAVE TO CLICK IN IT
+ $("#playerOnesWord").focus(function(){ $("span").css("display", "inline").fadeOut(2000); });*/
 
 @import url(http://fonts.googleapis.com/css?family=Monoton);
 
