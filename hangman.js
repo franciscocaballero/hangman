@@ -88,7 +88,8 @@
                                 if (guessRight == arrTheWord.length) {
                                   console.log('equal');
                                   console.log('happy day, mo fo');
-                                } 
+                                  alert("Oh Happy Day!");
+                                }
                               }
                             }
                             else {
