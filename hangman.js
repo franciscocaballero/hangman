@@ -92,7 +92,7 @@
                               }
                             }
                             else {
-                              alert("Opps try again!");
+                              alert("Oops try again!");
                             }
                           }
                         }
