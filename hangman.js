@@ -1,3 +1,17 @@
+// Francisco Caballero Comments - There are a alot of things I admire about your code one being that you stuck to keeping it very
+//straight forward and most of your functions have a lot of power behind them and do more than
+// one thing . Thats one something I would like to implement in my code as well . You also console log a ton which is something
+// else I need to work on which would help with debugging . I know we already spoke about this but one thing i would change would be
+// deleting the un used lines of code.
+
+
+
+
+
+
+
+
+
     // 201701310918L   EL MARTES   GIRO
     //SETFOCUS TO THE FIRST FIELD SO I DONT HAVE TO CLICK IN IT
     // $("#playerOnesWord").focus(function(){ $("span").css("display", "inline").fadeOut(2000); });
